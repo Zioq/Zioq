@@ -1,6 +1,6 @@
-### Hello there, I'm Jaehyeon Robert Han 👋🏻
+## Hello there, I'm Jaehyeon Robert Han 👋🏻
 
-## Who I Am ? 🔭
+### Who I Am ? 🔭
 - 👨🏻‍💻  I'm a passionate, self-motivated, proactive and result-oriented FULL-STACK Developer.
 - 🎖  I'm participated in BizHacks 2020 in UBC.
 - 🏃🏻‍♂️  I'm participated in nwHacks 2020 in UBC as a volunteer.
