@@ -37,3 +37,6 @@
 <img align="AWS" alt="AWS" width="26px"  src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg">
 <br />
 <br />
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zioq&show_icons=true&theme=radical)
+
